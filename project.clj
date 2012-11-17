@@ -5,4 +5,5 @@
                  [speclj "2.3.1"]]
   :profiles {:dev {:dependencies [[speclj "2.3.1"]]}}
   :plugins [[speclj "2.3.1"]]
-  :test-paths ["spec"])
+  :test-paths ["spec"]
+  :main ttt.core)
